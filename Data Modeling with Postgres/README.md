@@ -1,12 +1,10 @@
 # Data Modeling with Postgres
 
-***
 
 The project is modeling user activity data generated in a music streaming app (Sparkify). The objective is to build an ETL to convert the logs and song datasets into a relational database optimised for queries related to song play analysis.
 
 ## Project Structure
 
-***
 
 Data Modeling with Postgres
 |____data			# Dataset
