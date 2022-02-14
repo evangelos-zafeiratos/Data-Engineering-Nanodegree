@@ -4,7 +4,6 @@ def printBoard(board):
             print(board[row][col],end='')
         print()
 
-
 def setBoard():
     board = list()
     Grid_01 = '''200080300
